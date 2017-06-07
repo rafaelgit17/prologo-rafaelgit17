@@ -67,3 +67,4 @@
 39)	Ponerle negrita al texto de los botones.
 40)	Colocar una sombra interna al botón de enviar mensaje.
 41) Borde finito en la imagen de PanamaLeaks.
+42) Cambiar el color de los íconos del menú.
